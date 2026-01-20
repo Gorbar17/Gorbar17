@@ -23,9 +23,10 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 
 ## A custom Half-Life 2 Episode 2 Map
 
+![HL2 Screenshot](images/Screenshot2.png)
 My first attempt at making a complete map from start to finish to practice Level Design with basic scripting, combat, exploration and puzzle solving. 
 
-![HL2 Screenshot](images/Screenshot2.png)
+
 
 ##Work-In-Progress Projects
 
