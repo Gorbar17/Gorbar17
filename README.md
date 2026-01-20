@@ -13,8 +13,7 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 
 **Features:**
 - Two playable levels (one with branching paths)
-- Simple main menu with level selection
-- Volume slider
+- Simple main menu with level selection and Volume slider
 - Focus on movement, timing, and player flow
 
 
@@ -30,7 +29,13 @@ My first attempt at making a complete map from start to finish to practice Level
 
 ## Work-In-Progress Projects
 
-
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="images/Screenshot8.png" width="500" />
+  <img src="images/Screenshot3.png" width="500" />
+  <img src="images/Screenshot5.png" width="500" />
+  <img src="images/Screenshot6.png" width="500" />
+  <img src="images/Screenshot7.png" width="500" />
+</div>
 
 
 
