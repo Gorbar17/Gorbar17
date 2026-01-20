@@ -1,5 +1,5 @@
 # Hello! I’m Bruno!
-## I'm an aspiring game developer with a strong interest in Level Design, Game Design and Programming. I enjoy making Custom Maps for the Games i love, like Half-Life 2 and experimenting with gameplay flow and enviroments. I also have some basic experience with Blender in 3D modeling and animation.
+I'm an aspiring game developer with a strong interest in Level Design, Game Design and Programming. I enjoy making Custom Maps for the Games i love, like Half-Life 2 and experimenting with gameplay flow and environments. I also have some basic experience with Blender in 3D modeling and animation.
 
 
 
