@@ -26,7 +26,9 @@ You can download and try it on Itch.io: https://gorbar.itch.io/prototype-platfor
 
 ![HL2 Screenshot](images/Screenshot2.png)
 My first attempt at making a complete map from start to finish to practice Level Design with basic scripting, combat, exploration and puzzle solving. 
-
+<a href="maps/practice2v2.bsp" style="display:inline-block;padding:10px 20px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:5px;">
+  Download HL2 Map
+</a>
 
 
 ## Work-In-Progress Projects
