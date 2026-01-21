@@ -19,12 +19,16 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 You can download and try it on Itch.io
 </a>
 
+<br>
+<br>
+
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="images/Screenshot9.png" width="300" />
   <img src="images/Screenshot10.png" width="300" />
 </div>
 
-
+<br>
+<br>
 
 
 ## A custom Half-Life 2 Episode 2 Map
@@ -35,6 +39,16 @@ My first attempt at making a complete map from start to finish to practice Level
   You can Download the Map on Itch.io
 </a>
 
+<br>
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="images/Screenshot11.jpg" width="300" />
+  <img src="images/Screenshot12.png" width="300" />
+  <img src="images/Screenshot13.png" width="300" />
+</div>
+
+<br>
+<br>
 
 ## Work-In-Progress Projects
 
