@@ -19,6 +19,12 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 You can download and try it on Itch.io
 </a>
 
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="images/Screenshot3.png" width="300" />
+  <img src="images/Screenshot8.png" width="300" />
+  <img src="images/Screenshot5.png" width="300" />
+</div>
+
 
 
 
